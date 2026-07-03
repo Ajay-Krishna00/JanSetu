@@ -1,26 +1,104 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+  /* Surfaces & ink (dataviz reference palette, light mode) */
+  --background: #f9f9f7;
+  --surface: #fcfcfb;
+  --foreground: #0b0b0b;
+  --ink-secondary: #52514e;
+  --ink-muted: #898781;
+  --hairline: #e1e0d9;
+  --baseline: #c3c2b7;
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  /* Brand */
+  --brand: #1c5cab;
+  --brand-strong: #104281;
+  --brand-soft: #cde2fb;
+  --accent: #eb6834;
+
+  /* Categorical series (validated order) */
+  --series-1: #2a78d6;
+  --series-2: #1baf7a;
+  --series-3: #eda100;
+  --series-4: #008300;
+  --series-5: #4a3aa7;
+  --series-6: #e34948;
+  --series-7: #e87ba4;
+  --series-8: #eb6834;
+
+  /* Status */
+  --status-good: #0ca30c;
+  --status-warning: #fab219;
+  --status-serious: #ec835a;
+  --status-critical: #d03b3b;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    color-scheme: dark;
+
+    --background: #14140f;
+    --surface: #1c1c17;
+    --foreground: #f2f1ea;
+    --ink-secondary: #b6b4ab;
+    --ink-muted: #85837a;
+    --hairline: #302f28;
+    --baseline: #45443a;
+
+    --brand: #5c9cf0;
+    --brand-strong: #7fb2f5;
+    --brand-soft: #1e3556;
+    --accent: #f07a48;
+
+    /* Slightly lifted series values so bars/dots keep contrast on dark ink */
+    --series-1: #5c9cf0;
+    --series-2: #37c793;
+    --series-3: #f0b52a;
+    --series-4: #34b534;
+    --series-5: #8b7ce0;
+    --series-6: #f26b6a;
+    --series-7: #f097bb;
+    --series-8: #f07a48;
+
+    --status-good: #34b534;
+    --status-warning: #f0b52a;
+    --status-serious: #f0956a;
+    --status-critical: #ec5a5a;
   }
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-foreground: var(--foreground);
+  --color-ink-secondary: var(--ink-secondary);
+  --color-ink-muted: var(--ink-muted);
+  --color-hairline: var(--hairline);
+  --color-brand: var(--brand);
+  --color-brand-strong: var(--brand-strong);
+  --color-brand-soft: var(--brand-soft);
+  --color-accent: var(--accent);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-geist-sans), system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+/* Visible keyboard focus for all interactive elements */
+:where(a, button, input, select, textarea, [tabindex]):focus-visible {
+  outline: 2px solid var(--brand);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+/* Leaflet needs its container sized explicitly */
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+  border-radius: 12px;
+  z-index: 0;
 }

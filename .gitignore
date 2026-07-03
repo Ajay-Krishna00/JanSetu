@@ -17,6 +17,9 @@
 /.next/
 /out/
 
+# runtime data store (seeded from src/data on first run)
+/.data/
+
 # production
 /build
 

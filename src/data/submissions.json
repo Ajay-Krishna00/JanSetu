@@ -1,0 +1,2115 @@
+[
+  {
+    "id": "s010",
+    "text": "Community toilet near the market is unusable. Vendors and visitors have no facility.",
+    "translatedText": "Community toilet near the market is unusable. Vendors and visitors have no facility.",
+    "language": "en",
+    "category": "sanitation",
+    "wardId": "w12",
+    "channel": "voice",
+    "severity": 3,
+    "themes": [
+      "community toilet",
+      "market"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-07-02T14:43:00.948Z"
+  },
+  {
+    "id": "s020",
+    "text": "हमारे मोहल्ले में नल का पानी नहीं आता। महिलाएँ दूर से पानी लाती हैं।",
+    "translatedText": "Our colony has no tap water. Women fetch water from far away.",
+    "language": "hi",
+    "category": "water",
+    "wardId": "w08",
+    "channel": "text",
+    "severity": 4,
+    "themes": [
+      "no tap water",
+      "women burden"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-07-01T13:14:39.480Z"
+  },
+  {
+    "id": "s079",
+    "text": "Requesting benches and drinking water facility at the primary school. Children sit on the floor.",
+    "translatedText": "Requesting benches and drinking water facility at the primary school. Children sit on the floor.",
+    "language": "en",
+    "category": "education",
+    "wardId": "w03",
+    "channel": "meeting",
+    "severity": 2,
+    "themes": [
+      "school furniture",
+      "drinking water"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-07-01T10:45:51.194Z"
+  },
+  {
+    "id": "s105",
+    "text": "Borewell water is fluoride contaminated. We need a protected drinking water scheme urgently.",
+    "translatedText": "Borewell water is fluoride contaminated. We need a protected drinking water scheme urgently.",
+    "language": "en",
+    "category": "water",
+    "wardId": "w05",
+    "channel": "voice",
+    "severity": 5,
+    "themes": [
+      "fluoride",
+      "safe drinking water"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-30T06:07:34.801Z"
+  },
+  {
+    "id": "s067",
+    "text": "मुख्य सड़क पर बड़े-बड़े गड्ढे हैं, रोज़ दुर्घटनाएँ होती हैं। कृपया मरम्मत करवाएँ।",
+    "translatedText": "The main road has big potholes; accidents happen daily. Please get it repaired.",
+    "language": "hi",
+    "category": "roads",
+    "wardId": "w04",
+    "channel": "voice",
+    "severity": 4,
+    "themes": [
+      "potholes",
+      "accidents"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-29T02:40:56.177Z"
+  },
+  {
+    "id": "s054",
+    "text": "Community toilet near the market is unusable. Vendors and visitors have no facility.",
+    "translatedText": "Community toilet near the market is unusable. Vendors and visitors have no facility.",
+    "language": "en",
+    "category": "sanitation",
+    "wardId": "w12",
+    "channel": "voice",
+    "severity": 3,
+    "themes": [
+      "community toilet",
+      "market"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-27T22:05:05.596Z"
+  },
+  {
+    "id": "s129",
+    "text": "குழாய் நீர் இணைப்பு எங்கள் பகுதிக்கு இன்னும் வரவில்லை.",
+    "translatedText": "Piped water connection has still not reached our area.",
+    "language": "ta",
+    "category": "water",
+    "wardId": "w06",
+    "channel": "voice",
+    "severity": 3,
+    "themes": [
+      "piped water"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-27T06:04:01.999Z"
+  },
+  {
+    "id": "s131",
+    "text": "எங்கள் பள்ளியில் ஆசிரியர்கள் பற்றாக்குறை உள்ளது. இரண்டு வகுப்புகளுக்கு ஒரே ஆசிரியர்.",
+    "translatedText": "Our school has a teacher shortage; one teacher for two classes.",
+    "language": "ta",
+    "category": "education",
+    "wardId": "w03",
+    "channel": "social",
+    "severity": 3,
+    "themes": [
+      "teacher shortage"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-26T08:06:42.019Z"
+  },
+  {
+    "id": "s097",
+    "text": "వారానికి ఒక్కసారే నీళ్లు వస్తున్నాయి. ట్యాంకర్ కోసం గంటలు నిలబడాలి.",
+    "translatedText": "Water comes only once a week. We stand in line for hours for the tanker.",
+    "language": "te",
+    "category": "water",
+    "wardId": "w09",
+    "channel": "text",
+    "severity": 5,
+    "themes": [
+      "water scarcity",
+      "tanker dependence"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-23T23:04:38.819Z"
+  },
+  {
+    "id": "s041",
+    "text": "Requesting benches and drinking water facility at the primary school. Children sit on the floor.",
+    "translatedText": "Requesting benches and drinking water facility at the primary school. Children sit on the floor.",
+    "language": "en",
+    "category": "education",
+    "wardId": "w06",
+    "channel": "voice",
+    "severity": 2,
+    "themes": [
+      "school furniture",
+      "drinking water"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-21T02:42:53.923Z"
+  },
+  {
+    "id": "s001",
+    "text": "गाँव में कोई दवाखाना नहीं है। बुज़ुर्गों को इलाज के लिए शहर ले जाना पड़ता है।",
+    "translatedText": "There is no clinic in the village. The elderly must be taken to town for treatment.",
+    "language": "hi",
+    "category": "health",
+    "wardId": "w07",
+    "channel": "letter",
+    "severity": 4,
+    "themes": [
+      "no clinic",
+      "elderly care"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-20T20:42:54.953Z"
+  },
+  {
+    "id": "s023",
+    "text": "Requesting a tailoring unit for the women's self-help groups; they have training but no equipment.",
+    "translatedText": "Requesting a tailoring unit for the women's self-help groups; they have training but no equipment.",
+    "language": "en",
+    "category": "employment",
+    "wardId": "w08",
+    "channel": "voice",
+    "severity": 2,
+    "themes": [
+      "shg",
+      "tailoring unit"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-19T04:30:17.322Z"
+  },
+  {
+    "id": "s068",
+    "text": "ప్రభుత్వ పాఠశాలలో తరగతి గదులు సరిపోవడం లేదు, ఒక్క గదిలో రెండు తరగతులు నడుస్తున్నాయి.",
+    "translatedText": "Classrooms in the government school are insufficient; two classes run in one room.",
+    "language": "te",
+    "category": "education",
+    "wardId": "w08",
+    "channel": "meeting",
+    "severity": 3,
+    "themes": [
+      "classroom shortage"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-18T14:25:36.127Z"
+  },
+  {
+    "id": "s071",
+    "text": "మా ఊరిలో హైస్కూల్ లేదు, పిల్లలు రోజూ 6 కిలోమీటర్లు నడిచి వెళ్తున్నారు. దయచేసి స్కూల్ అప్‌గ్రేడ్ చేయండి.",
+    "translatedText": "There is no high school in our village; children walk 6 km every day. Please upgrade the school.",
+    "language": "te",
+    "category": "education",
+    "wardId": "w05",
+    "channel": "voice",
+    "severity": 4,
+    "themes": [
+      "school distance",
+      "high school upgrade"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-17T12:52:14.475Z"
+  },
+  {
+    "id": "s025",
+    "text": "नहर की मरम्मत नहीं हुई है, आखिरी खेतों तक पानी नहीं पहुँचता।",
+    "translatedText": "The canal has not been repaired; water does not reach the last fields.",
+    "language": "hi",
+    "category": "agriculture",
+    "wardId": "w10",
+    "channel": "meeting",
+    "severity": 4,
+    "themes": [
+      "canal repair",
+      "tail-end irrigation"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-16T16:32:59.398Z"
+  },
+  {
+    "id": "s069",
+    "text": "The bridge culvert near the tank overflows every rainy season and cuts off three villages.",
+    "translatedText": "The bridge culvert near the tank overflows every rainy season and cuts off three villages.",
+    "language": "en",
+    "category": "roads",
+    "wardId": "w02",
+    "channel": "voice",
+    "severity": 4,
+    "themes": [
+      "culvert",
+      "flooding",
+      "connectivity"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-15T19:15:39.892Z"
+  },
+  {
+    "id": "s100",
+    "text": "బస్సు మా ఊరికి రావడం లేదు ఎందుకంటే రోడ్డు బాగోలేదు. విద్యార్థులు ఇబ్బంది పడుతున్నారు.",
+    "translatedText": "The bus does not come to our village because the road is bad. Students suffer.",
+    "language": "te",
+    "category": "roads",
+    "wardId": "w01",
+    "channel": "text",
+    "severity": 3,
+    "themes": [
+      "bus connectivity",
+      "road condition"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-15T04:21:18.347Z"
+  },
+  {
+    "id": "s064",
+    "text": "मनरेगा का काम समय पर नहीं मिलता और भुगतान महीनों रुका रहता है।",
+    "translatedText": "MGNREGA work is not given on time and payments are delayed for months.",
+    "language": "hi",
+    "category": "employment",
+    "wardId": "w06",
+    "channel": "voice",
+    "severity": 3,
+    "themes": [
+      "mgnrega",
+      "wage delay"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-14T13:20:39.808Z"
+  },
+  {
+    "id": "s033",
+    "text": "మా ఊరిలో హైస్కూల్ లేదు, పిల్లలు రోజూ 6 కిలోమీటర్లు నడిచి వెళ్తున్నారు. దయచేసి స్కూల్ అప్‌గ్రేడ్ చేయండి.",
+    "translatedText": "There is no high school in our village; children walk 6 km every day. Please upgrade the school.",
+    "language": "te",
+    "category": "education",
+    "wardId": "w06",
+    "channel": "photo",
+    "severity": 4,
+    "themes": [
+      "school distance",
+      "high school upgrade"
+    ],
+    "hasPhoto": true,
+    "photoNote": "Photo attached by citizen showing the reported issue.",
+    "createdAt": "2026-06-14T12:31:44.636Z"
+  },
+  {
+    "id": "s088",
+    "text": "कचरा उठाने की कोई व्यवस्था नहीं है, जगह-जगह ढेर लगे हैं।",
+    "translatedText": "There is no garbage collection; heaps are piling up everywhere.",
+    "language": "hi",
+    "category": "sanitation",
+    "wardId": "w04",
+    "channel": "social",
+    "severity": 3,
+    "themes": [
+      "garbage collection"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-13T23:12:40.334Z"
+  },
+  {
+    "id": "s047",
+    "text": "కూరగాయల ధరలు పడిపోయినప్పుడు నిల్వ చేసుకోవడానికి కోల్డ్ స్టోరేజీ లేదు.",
+    "translatedText": "When vegetable prices crash there is no cold storage to keep produce.",
+    "language": "te",
+    "category": "agriculture",
+    "wardId": "w10",
+    "channel": "photo",
+    "severity": 3,
+    "themes": [
+      "cold storage",
+      "price crash"
+    ],
+    "hasPhoto": true,
+    "photoNote": "Photo attached by citizen showing the reported issue.",
+    "createdAt": "2026-06-13T12:48:33.057Z"
+  },
+  {
+    "id": "s066",
+    "text": "పీహెచ్‌సీలో డాక్టర్ వారానికి రెండు రోజులే వస్తారు. రాత్రి ఎమర్జెన్సీ వస్తే 30 కిలోమీటర్లు వెళ్ళాలి.",
+    "translatedText": "The PHC doctor comes only two days a week. For a night emergency we must travel 30 km.",
+    "language": "te",
+    "category": "health",
+    "wardId": "w01",
+    "channel": "text",
+    "severity": 5,
+    "themes": [
+      "doctor shortage",
+      "emergency care"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-13T03:19:48.895Z"
+  },
+  {
+    "id": "s115",
+    "text": "Requesting a tailoring unit for the women's self-help groups; they have training but no equipment.",
+    "translatedText": "Requesting a tailoring unit for the women's self-help groups; they have training but no equipment.",
+    "language": "en",
+    "category": "employment",
+    "wardId": "w10",
+    "channel": "voice",
+    "severity": 2,
+    "themes": [
+      "shg",
+      "tailoring unit"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-12T17:16:49.082Z"
+  },
+  {
+    "id": "s094",
+    "text": "नहर की मरम्मत नहीं हुई है, आखिरी खेतों तक पानी नहीं पहुँचता।",
+    "translatedText": "The canal has not been repaired; water does not reach the last fields.",
+    "language": "hi",
+    "category": "agriculture",
+    "wardId": "w10",
+    "channel": "photo",
+    "severity": 4,
+    "themes": [
+      "canal repair",
+      "tail-end irrigation"
+    ],
+    "hasPhoto": true,
+    "photoNote": "Photo attached by citizen showing the reported issue.",
+    "createdAt": "2026-06-11T02:41:38.488Z"
+  },
+  {
+    "id": "s103",
+    "text": "ఆశా వర్కర్లకు మందుల కిట్లు అందడం లేదు.",
+    "translatedText": "ASHA workers are not receiving medicine kits.",
+    "language": "te",
+    "category": "health",
+    "wardId": "w06",
+    "channel": "text",
+    "severity": 2,
+    "themes": [
+      "asha workers",
+      "medicine supply"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-10T08:14:41.868Z"
+  },
+  {
+    "id": "s109",
+    "text": "Street from the market to the bus stand needs urgent repair, autos refuse to ply after dark.",
+    "translatedText": "Street from the market to the bus stand needs urgent repair, autos refuse to ply after dark.",
+    "language": "en",
+    "category": "roads",
+    "wardId": "w06",
+    "channel": "meeting",
+    "severity": 3,
+    "themes": [
+      "road repair",
+      "market road"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-09T06:17:00.408Z"
+  },
+  {
+    "id": "s045",
+    "text": "వారానికి ఒక్కసారే నీళ్లు వస్తున్నాయి. ట్యాంకర్ కోసం గంటలు నిలబడాలి.",
+    "translatedText": "Water comes only once a week. We stand in line for hours for the tanker.",
+    "language": "te",
+    "category": "water",
+    "wardId": "w06",
+    "channel": "voice",
+    "severity": 5,
+    "themes": [
+      "water scarcity",
+      "tanker dependence"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-08T13:31:41.656Z"
+  },
+  {
+    "id": "s089",
+    "text": "మా ఊరిలో హైస్కూల్ లేదు, పిల్లలు రోజూ 6 కిలోమీటర్లు నడిచి వెళ్తున్నారు. దయచేసి స్కూల్ అప్‌గ్రేడ్ చేయండి.",
+    "translatedText": "There is no high school in our village; children walk 6 km every day. Please upgrade the school.",
+    "language": "te",
+    "category": "education",
+    "wardId": "w03",
+    "channel": "voice",
+    "severity": 4,
+    "themes": [
+      "school distance",
+      "high school upgrade"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-08T11:25:33.328Z"
+  },
+  {
+    "id": "s035",
+    "text": "எங்கள் பள்ளியில் ஆசிரியர்கள் பற்றாக்குறை உள்ளது. இரண்டு வகுப்புகளுக்கு ஒரே ஆசிரியர்.",
+    "translatedText": "Our school has a teacher shortage; one teacher for two classes.",
+    "language": "ta",
+    "category": "education",
+    "wardId": "w03",
+    "channel": "text",
+    "severity": 3,
+    "themes": [
+      "teacher shortage"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-08T02:27:19.137Z"
+  },
+  {
+    "id": "s039",
+    "text": "குழாய் நீர் இணைப்பு எங்கள் பகுதிக்கு இன்னும் வரவில்லை.",
+    "translatedText": "Piped water connection has still not reached our area.",
+    "language": "ta",
+    "category": "water",
+    "wardId": "w06",
+    "channel": "photo",
+    "severity": 3,
+    "themes": [
+      "piped water"
+    ],
+    "hasPhoto": true,
+    "photoNote": "Photo attached by citizen showing the reported issue.",
+    "createdAt": "2026-06-07T02:25:26.826Z"
+  },
+  {
+    "id": "s120",
+    "text": "పీహెచ్‌సీలో డాక్టర్ వారానికి రెండు రోజులే వస్తారు. రాత్రి ఎమర్జెన్సీ వస్తే 30 కిలోమీటర్లు వెళ్ళాలి.",
+    "translatedText": "The PHC doctor comes only two days a week. For a night emergency we must travel 30 km.",
+    "language": "te",
+    "category": "health",
+    "wardId": "w09",
+    "channel": "photo",
+    "severity": 5,
+    "themes": [
+      "doctor shortage",
+      "emergency care"
+    ],
+    "hasPhoto": true,
+    "photoNote": "Photo attached by citizen showing the reported issue.",
+    "createdAt": "2026-06-06T14:26:32.847Z"
+  },
+  {
+    "id": "s113",
+    "text": "ఆశా వర్కర్లకు మందుల కిట్లు అందడం లేదు.",
+    "translatedText": "ASHA workers are not receiving medicine kits.",
+    "language": "te",
+    "category": "health",
+    "wardId": "w06",
+    "channel": "social",
+    "severity": 2,
+    "themes": [
+      "asha workers",
+      "medicine supply"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-06T13:45:55.705Z"
+  },
+  {
+    "id": "s034",
+    "text": "குழாய் நீர் இணைப்பு எங்கள் பகுதிக்கு இன்னும் வரவில்லை.",
+    "translatedText": "Piped water connection has still not reached our area.",
+    "language": "ta",
+    "category": "water",
+    "wardId": "w06",
+    "channel": "letter",
+    "severity": 3,
+    "themes": [
+      "piped water"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-05T03:00:07.197Z"
+  },
+  {
+    "id": "s128",
+    "text": "మా ఊరిలో హైస్కూల్ లేదు, పిల్లలు రోజూ 6 కిలోమీటర్లు నడిచి వెళ్తున్నారు. దయచేసి స్కూల్ అప్‌గ్రేడ్ చేయండి.",
+    "translatedText": "There is no high school in our village; children walk 6 km every day. Please upgrade the school.",
+    "language": "te",
+    "category": "education",
+    "wardId": "w03",
+    "channel": "voice",
+    "severity": 4,
+    "themes": [
+      "school distance",
+      "high school upgrade"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-04T06:16:34.816Z"
+  },
+  {
+    "id": "s031",
+    "text": "ఆశా వర్కర్లకు మందుల కిట్లు అందడం లేదు.",
+    "translatedText": "ASHA workers are not receiving medicine kits.",
+    "language": "te",
+    "category": "health",
+    "wardId": "w09",
+    "channel": "text",
+    "severity": 2,
+    "themes": [
+      "asha workers",
+      "medicine supply"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-03T08:38:58.361Z"
+  },
+  {
+    "id": "s092",
+    "text": "కూరగాయల ధరలు పడిపోయినప్పుడు నిల్వ చేసుకోవడానికి కోల్డ్ స్టోరేజీ లేదు.",
+    "translatedText": "When vegetable prices crash there is no cold storage to keep produce.",
+    "language": "te",
+    "category": "agriculture",
+    "wardId": "w05",
+    "channel": "photo",
+    "severity": 3,
+    "themes": [
+      "cold storage",
+      "price crash"
+    ],
+    "hasPhoto": true,
+    "photoNote": "Photo attached by citizen showing the reported issue.",
+    "createdAt": "2026-06-02T22:24:02.529Z"
+  },
+  {
+    "id": "s019",
+    "text": "हमारे मोहल्ले में नल का पानी नहीं आता। महिलाएँ दूर से पानी लाती हैं।",
+    "translatedText": "Our colony has no tap water. Women fetch water from far away.",
+    "language": "hi",
+    "category": "water",
+    "wardId": "w12",
+    "channel": "voice",
+    "severity": 4,
+    "themes": [
+      "no tap water",
+      "women burden"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-02T19:20:19.181Z"
+  },
+  {
+    "id": "s117",
+    "text": "Community toilet near the market is unusable. Vendors and visitors have no facility.",
+    "translatedText": "Community toilet near the market is unusable. Vendors and visitors have no facility.",
+    "language": "en",
+    "category": "sanitation",
+    "wardId": "w07",
+    "channel": "photo",
+    "severity": 3,
+    "themes": [
+      "community toilet",
+      "market"
+    ],
+    "hasPhoto": true,
+    "photoNote": "Photo attached by citizen showing the reported issue.",
+    "createdAt": "2026-06-02T10:15:06.338Z"
+  },
+  {
+    "id": "s062",
+    "text": "कचरा उठाने की कोई व्यवस्था नहीं है, जगह-जगह ढेर लगे हैं।",
+    "translatedText": "There is no garbage collection; heaps are piling up everywhere.",
+    "language": "hi",
+    "category": "sanitation",
+    "wardId": "w10",
+    "channel": "photo",
+    "severity": 3,
+    "themes": [
+      "garbage collection"
+    ],
+    "hasPhoto": true,
+    "photoNote": "Photo attached by citizen showing the reported issue.",
+    "createdAt": "2026-06-02T07:07:55.606Z"
+  },
+  {
+    "id": "s119",
+    "text": "नहर की मरम्मत नहीं हुई है, आखिरी खेतों तक पानी नहीं पहुँचता।",
+    "translatedText": "The canal has not been repaired; water does not reach the last fields.",
+    "language": "hi",
+    "category": "agriculture",
+    "wardId": "w07",
+    "channel": "text",
+    "severity": 4,
+    "themes": [
+      "canal repair",
+      "tail-end irrigation"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-02T01:34:36.238Z"
+  },
+  {
+    "id": "s087",
+    "text": "हमारे स्कूल में विज्ञान की प्रयोगशाला नहीं है। बच्चों को प्रैक्टिकल के लिए शहर जाना पड़ता है।",
+    "translatedText": "Our school has no science lab. Children must travel to town for practicals.",
+    "language": "hi",
+    "category": "education",
+    "wardId": "w03",
+    "channel": "letter",
+    "severity": 3,
+    "themes": [
+      "science lab",
+      "school infrastructure"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-01T22:00:20.627Z"
+  },
+  {
+    "id": "s112",
+    "text": "Requesting a tailoring unit for the women's self-help groups; they have training but no equipment.",
+    "translatedText": "Requesting a tailoring unit for the women's self-help groups; they have training but no equipment.",
+    "language": "en",
+    "category": "employment",
+    "wardId": "w12",
+    "channel": "letter",
+    "severity": 2,
+    "themes": [
+      "shg",
+      "tailoring unit"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-01T20:34:39.994Z"
+  },
+  {
+    "id": "s075",
+    "text": "Borewell water is fluoride contaminated. We need a protected drinking water scheme urgently.",
+    "translatedText": "Borewell water is fluoride contaminated. We need a protected drinking water scheme urgently.",
+    "language": "en",
+    "category": "water",
+    "wardId": "w11",
+    "channel": "meeting",
+    "severity": 5,
+    "themes": [
+      "fluoride",
+      "safe drinking water"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-06-01T10:49:55.382Z"
+  },
+  {
+    "id": "s018",
+    "text": "డిగ్రీ అయిపోయిన యువతకు పని లేదు. స్కిల్ ట్రైనింగ్ సెంటర్ కావాలి.",
+    "translatedText": "Graduated youth have no work. We need a skill training centre.",
+    "language": "te",
+    "category": "employment",
+    "wardId": "w01",
+    "channel": "social",
+    "severity": 3,
+    "themes": [
+      "youth unemployment",
+      "skill training"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-31T00:17:11.864Z"
+  },
+  {
+    "id": "s086",
+    "text": "Community toilet near the market is unusable. Vendors and visitors have no facility.",
+    "translatedText": "Community toilet near the market is unusable. Vendors and visitors have no facility.",
+    "language": "en",
+    "category": "sanitation",
+    "wardId": "w01",
+    "channel": "social",
+    "severity": 3,
+    "themes": [
+      "community toilet",
+      "market"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-30T16:39:33.065Z"
+  },
+  {
+    "id": "s072",
+    "text": "Requesting a tailoring unit for the women's self-help groups; they have training but no equipment.",
+    "translatedText": "Requesting a tailoring unit for the women's self-help groups; they have training but no equipment.",
+    "language": "en",
+    "category": "employment",
+    "wardId": "w04",
+    "channel": "text",
+    "severity": 2,
+    "themes": [
+      "shg",
+      "tailoring unit"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-28T09:07:38.820Z"
+  },
+  {
+    "id": "s121",
+    "text": "ఆశా వర్కర్లకు మందుల కిట్లు అందడం లేదు.",
+    "translatedText": "ASHA workers are not receiving medicine kits.",
+    "language": "te",
+    "category": "health",
+    "wardId": "w04",
+    "channel": "voice",
+    "severity": 2,
+    "themes": [
+      "asha workers",
+      "medicine supply"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-27T12:15:17.064Z"
+  },
+  {
+    "id": "s114",
+    "text": "చెరువు ఎండిపోయింది, పశువులకు కూడా నీళ్లు లేవు.",
+    "translatedText": "The tank has dried up; there is no water even for cattle.",
+    "language": "te",
+    "category": "water",
+    "wardId": "w11",
+    "channel": "meeting",
+    "severity": 4,
+    "themes": [
+      "tank desilting",
+      "livestock"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-26T11:09:06.587Z"
+  },
+  {
+    "id": "s003",
+    "text": "Borewell water is fluoride contaminated. We need a protected drinking water scheme urgently.",
+    "translatedText": "Borewell water is fluoride contaminated. We need a protected drinking water scheme urgently.",
+    "language": "en",
+    "category": "water",
+    "wardId": "w09",
+    "channel": "meeting",
+    "severity": 5,
+    "themes": [
+      "fluoride",
+      "safe drinking water"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-25T21:21:04.709Z"
+  },
+  {
+    "id": "s063",
+    "text": "చెరువు ఎండిపోయింది, పశువులకు కూడా నీళ్లు లేవు.",
+    "translatedText": "The tank has dried up; there is no water even for cattle.",
+    "language": "te",
+    "category": "water",
+    "wardId": "w01",
+    "channel": "text",
+    "severity": 4,
+    "themes": [
+      "tank desilting",
+      "livestock"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-25T15:34:28.537Z"
+  },
+  {
+    "id": "s073",
+    "text": "బస్సు మా ఊరికి రావడం లేదు ఎందుకంటే రోడ్డు బాగోలేదు. విద్యార్థులు ఇబ్బంది పడుతున్నారు.",
+    "translatedText": "The bus does not come to our village because the road is bad. Students suffer.",
+    "language": "te",
+    "category": "roads",
+    "wardId": "w09",
+    "channel": "photo",
+    "severity": 3,
+    "themes": [
+      "bus connectivity",
+      "road condition"
+    ],
+    "hasPhoto": true,
+    "photoNote": "Photo attached by citizen showing the reported issue.",
+    "createdAt": "2026-05-25T01:11:34.443Z"
+  },
+  {
+    "id": "s044",
+    "text": "Girls are dropping out after 7th class because the nearest high school is too far and there is no bus.",
+    "translatedText": "Girls are dropping out after 7th class because the nearest high school is too far and there is no bus.",
+    "language": "en",
+    "category": "education",
+    "wardId": "w03",
+    "channel": "photo",
+    "severity": 5,
+    "themes": [
+      "girls dropout",
+      "school distance",
+      "transport"
+    ],
+    "hasPhoto": true,
+    "photoNote": "Photo attached by citizen showing the reported issue.",
+    "createdAt": "2026-05-23T23:20:45.627Z"
+  },
+  {
+    "id": "s056",
+    "text": "Street from the market to the bus stand needs urgent repair, autos refuse to ply after dark.",
+    "translatedText": "Street from the market to the bus stand needs urgent repair, autos refuse to ply after dark.",
+    "language": "en",
+    "category": "roads",
+    "wardId": "w11",
+    "channel": "text",
+    "severity": 3,
+    "themes": [
+      "road repair",
+      "market road"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-23T03:37:47.465Z"
+  },
+  {
+    "id": "s008",
+    "text": "డిగ్రీ అయిపోయిన యువతకు పని లేదు. స్కిల్ ట్రైనింగ్ సెంటర్ కావాలి.",
+    "translatedText": "Graduated youth have no work. We need a skill training centre.",
+    "language": "te",
+    "category": "employment",
+    "wardId": "w12",
+    "channel": "voice",
+    "severity": 3,
+    "themes": [
+      "youth unemployment",
+      "skill training"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-22T15:36:36.109Z"
+  },
+  {
+    "id": "s104",
+    "text": "नहर की मरम्मत नहीं हुई है, आखिरी खेतों तक पानी नहीं पहुँचता।",
+    "translatedText": "The canal has not been repaired; water does not reach the last fields.",
+    "language": "hi",
+    "category": "agriculture",
+    "wardId": "w11",
+    "channel": "social",
+    "severity": 4,
+    "themes": [
+      "canal repair",
+      "tail-end irrigation"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-21T18:29:56.760Z"
+  },
+  {
+    "id": "s125",
+    "text": "చెరువు ఎండిపోయింది, పశువులకు కూడా నీళ్లు లేవు.",
+    "translatedText": "The tank has dried up; there is no water even for cattle.",
+    "language": "te",
+    "category": "water",
+    "wardId": "w11",
+    "channel": "voice",
+    "severity": 4,
+    "themes": [
+      "tank desilting",
+      "livestock"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-21T18:27:55.234Z"
+  },
+  {
+    "id": "s107",
+    "text": "The bridge culvert near the tank overflows every rainy season and cuts off three villages.",
+    "translatedText": "The bridge culvert near the tank overflows every rainy season and cuts off three villages.",
+    "language": "en",
+    "category": "roads",
+    "wardId": "w02",
+    "channel": "voice",
+    "severity": 4,
+    "themes": [
+      "culvert",
+      "flooding",
+      "connectivity"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-21T11:07:55.968Z"
+  },
+  {
+    "id": "s065",
+    "text": "ఆశా వర్కర్లకు మందుల కిట్లు అందడం లేదు.",
+    "translatedText": "ASHA workers are not receiving medicine kits.",
+    "language": "te",
+    "category": "health",
+    "wardId": "w08",
+    "channel": "voice",
+    "severity": 2,
+    "themes": [
+      "asha workers",
+      "medicine supply"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-20T10:12:10.523Z"
+  },
+  {
+    "id": "s011",
+    "text": "गाँव में कोई दवाखाना नहीं है। बुज़ुर्गों को इलाज के लिए शहर ले जाना पड़ता है।",
+    "translatedText": "There is no clinic in the village. The elderly must be taken to town for treatment.",
+    "language": "hi",
+    "category": "health",
+    "wardId": "w08",
+    "channel": "voice",
+    "severity": 4,
+    "themes": [
+      "no clinic",
+      "elderly care"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-19T03:21:51.500Z"
+  },
+  {
+    "id": "s030",
+    "text": "எங்கள் பள்ளியில் ஆசிரியர்கள் பற்றாக்குறை உள்ளது. இரண்டு வகுப்புகளுக்கு ஒரே ஆசிரியர்.",
+    "translatedText": "Our school has a teacher shortage; one teacher for two classes.",
+    "language": "ta",
+    "category": "education",
+    "wardId": "w08",
+    "channel": "social",
+    "severity": 3,
+    "themes": [
+      "teacher shortage"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-18T13:19:52.051Z"
+  },
+  {
+    "id": "s060",
+    "text": "రోజూ 4-5 గంటలు కరెంటు పోతుంది. పంట మోటార్లకు రాత్రి మాత్రమే కరెంటు ఇస్తున్నారు.",
+    "translatedText": "Power goes off 4-5 hours daily. Crop motors get power only at night.",
+    "language": "te",
+    "category": "electricity",
+    "wardId": "w07",
+    "channel": "voice",
+    "severity": 3,
+    "themes": [
+      "power cuts",
+      "farm power"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-18T08:03:28.449Z"
+  },
+  {
+    "id": "s040",
+    "text": "డిగ్రీ అయిపోయిన యువతకు పని లేదు. స్కిల్ ట్రైనింగ్ సెంటర్ కావాలి.",
+    "translatedText": "Graduated youth have no work. We need a skill training centre.",
+    "language": "te",
+    "category": "employment",
+    "wardId": "w08",
+    "channel": "voice",
+    "severity": 3,
+    "themes": [
+      "youth unemployment",
+      "skill training"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-17T04:24:43.811Z"
+  },
+  {
+    "id": "s027",
+    "text": "உள் தெருக்கள் அனைத்தும் மண் சாலைகள். சிமெண்ட் சாலை போட்டுத் தரவும்.",
+    "translatedText": "All inner streets are mud roads. Please lay cement roads.",
+    "language": "ta",
+    "category": "roads",
+    "wardId": "w11",
+    "channel": "text",
+    "severity": 3,
+    "themes": [
+      "cc roads",
+      "internal streets"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-17T03:35:58.206Z"
+  },
+  {
+    "id": "s042",
+    "text": "मनरेगा का काम समय पर नहीं मिलता और भुगतान महीनों रुका रहता है।",
+    "translatedText": "MGNREGA work is not given on time and payments are delayed for months.",
+    "language": "hi",
+    "category": "employment",
+    "wardId": "w05",
+    "channel": "photo",
+    "severity": 3,
+    "themes": [
+      "mgnrega",
+      "wage delay"
+    ],
+    "hasPhoto": true,
+    "photoNote": "Photo attached by citizen showing the reported issue.",
+    "createdAt": "2026-05-16T19:57:02.190Z"
+  },
+  {
+    "id": "s038",
+    "text": "मुख्य सड़क पर बड़े-बड़े गड्ढे हैं, रोज़ दुर्घटनाएँ होती हैं। कृपया मरम्मत करवाएँ।",
+    "translatedText": "The main road has big potholes; accidents happen daily. Please get it repaired.",
+    "language": "hi",
+    "category": "roads",
+    "wardId": "w01",
+    "channel": "voice",
+    "severity": 4,
+    "themes": [
+      "potholes",
+      "accidents"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-14T14:41:01.463Z"
+  },
+  {
+    "id": "s102",
+    "text": "Requesting a 24x7 delivery facility. Pregnant women are being referred 40 km away at night.",
+    "translatedText": "Requesting a 24x7 delivery facility. Pregnant women are being referred 40 km away at night.",
+    "language": "en",
+    "category": "health",
+    "wardId": "w05",
+    "channel": "meeting",
+    "severity": 5,
+    "themes": [
+      "maternal care",
+      "24x7 PHC"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-12T06:56:05.999Z"
+  },
+  {
+    "id": "s014",
+    "text": "Requesting a tailoring unit for the women's self-help groups; they have training but no equipment.",
+    "translatedText": "Requesting a tailoring unit for the women's self-help groups; they have training but no equipment.",
+    "language": "en",
+    "category": "employment",
+    "wardId": "w08",
+    "channel": "voice",
+    "severity": 2,
+    "themes": [
+      "shg",
+      "tailoring unit"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-09T20:36:00.908Z"
+  },
+  {
+    "id": "s126",
+    "text": "Requesting a tailoring unit for the women's self-help groups; they have training but no equipment.",
+    "translatedText": "Requesting a tailoring unit for the women's self-help groups; they have training but no equipment.",
+    "language": "en",
+    "category": "employment",
+    "wardId": "w03",
+    "channel": "meeting",
+    "severity": 2,
+    "themes": [
+      "shg",
+      "tailoring unit"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-08T04:59:29.507Z"
+  },
+  {
+    "id": "s076",
+    "text": "చెరువు ఎండిపోయింది, పశువులకు కూడా నీళ్లు లేవు.",
+    "translatedText": "The tank has dried up; there is no water even for cattle.",
+    "language": "te",
+    "category": "water",
+    "wardId": "w02",
+    "channel": "voice",
+    "severity": 4,
+    "themes": [
+      "tank desilting",
+      "livestock"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-07T11:22:04.564Z"
+  },
+  {
+    "id": "s036",
+    "text": "Community toilet near the market is unusable. Vendors and visitors have no facility.",
+    "translatedText": "Community toilet near the market is unusable. Vendors and visitors have no facility.",
+    "language": "en",
+    "category": "sanitation",
+    "wardId": "w07",
+    "channel": "text",
+    "severity": 3,
+    "themes": [
+      "community toilet",
+      "market"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-07T08:47:23.921Z"
+  },
+  {
+    "id": "s024",
+    "text": "Requesting a 24x7 delivery facility. Pregnant women are being referred 40 km away at night.",
+    "translatedText": "Requesting a 24x7 delivery facility. Pregnant women are being referred 40 km away at night.",
+    "language": "en",
+    "category": "health",
+    "wardId": "w06",
+    "channel": "voice",
+    "severity": 5,
+    "themes": [
+      "maternal care",
+      "24x7 PHC"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-06T11:52:23.127Z"
+  },
+  {
+    "id": "s032",
+    "text": "गली में स्ट्रीट लाइट नहीं है, रात में महिलाओं का निकलना मुश्किल है।",
+    "translatedText": "There are no street lights in the lane; it is hard for women to go out at night.",
+    "language": "hi",
+    "category": "electricity",
+    "wardId": "w07",
+    "channel": "voice",
+    "severity": 3,
+    "themes": [
+      "street lights",
+      "women safety"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-05T19:00:51.557Z"
+  },
+  {
+    "id": "s021",
+    "text": "मुख्य सड़क पर बड़े-बड़े गड्ढे हैं, रोज़ दुर्घटनाएँ होती हैं। कृपया मरम्मत करवाएँ।",
+    "translatedText": "The main road has big potholes; accidents happen daily. Please get it repaired.",
+    "language": "hi",
+    "category": "roads",
+    "wardId": "w11",
+    "channel": "social",
+    "severity": 4,
+    "themes": [
+      "potholes",
+      "accidents"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-04T09:16:20.716Z"
+  },
+  {
+    "id": "s108",
+    "text": "Transformer near the school has been sparking for weeks. It is dangerous for children.",
+    "translatedText": "Transformer near the school has been sparking for weeks. It is dangerous for children.",
+    "language": "en",
+    "category": "electricity",
+    "wardId": "w05",
+    "channel": "letter",
+    "severity": 4,
+    "themes": [
+      "transformer",
+      "safety hazard"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-04T01:44:58.421Z"
+  },
+  {
+    "id": "s130",
+    "text": "Requesting a tailoring unit for the women's self-help groups; they have training but no equipment.",
+    "translatedText": "Requesting a tailoring unit for the women's self-help groups; they have training but no equipment.",
+    "language": "en",
+    "category": "employment",
+    "wardId": "w11",
+    "channel": "text",
+    "severity": 2,
+    "themes": [
+      "shg",
+      "tailoring unit"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-03T02:57:42.665Z"
+  },
+  {
+    "id": "s009",
+    "text": "Borewell water is fluoride contaminated. We need a protected drinking water scheme urgently.",
+    "translatedText": "Borewell water is fluoride contaminated. We need a protected drinking water scheme urgently.",
+    "language": "en",
+    "category": "water",
+    "wardId": "w03",
+    "channel": "text",
+    "severity": 5,
+    "themes": [
+      "fluoride",
+      "safe drinking water"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-02T14:12:23.559Z"
+  },
+  {
+    "id": "s015",
+    "text": "Farmers need a soil testing centre; the nearest one is in the district headquarters.",
+    "translatedText": "Farmers need a soil testing centre; the nearest one is in the district headquarters.",
+    "language": "en",
+    "category": "agriculture",
+    "wardId": "w05",
+    "channel": "voice",
+    "severity": 2,
+    "themes": [
+      "soil testing"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-01T03:57:06.808Z"
+  },
+  {
+    "id": "s084",
+    "text": "குழாய் நீர் இணைப்பு எங்கள் பகுதிக்கு இன்னும் வரவில்லை.",
+    "translatedText": "Piped water connection has still not reached our area.",
+    "language": "ta",
+    "category": "water",
+    "wardId": "w08",
+    "channel": "text",
+    "severity": 3,
+    "themes": [
+      "piped water"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-05-01T01:17:04.723Z"
+  },
+  {
+    "id": "s051",
+    "text": "नहर की मरम्मत नहीं हुई है, आखिरी खेतों तक पानी नहीं पहुँचता।",
+    "translatedText": "The canal has not been repaired; water does not reach the last fields.",
+    "language": "hi",
+    "category": "agriculture",
+    "wardId": "w03",
+    "channel": "voice",
+    "severity": 4,
+    "themes": [
+      "canal repair",
+      "tail-end irrigation"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-29T10:35:17.220Z"
+  },
+  {
+    "id": "s091",
+    "text": "Requesting a tailoring unit for the women's self-help groups; they have training but no equipment.",
+    "translatedText": "Requesting a tailoring unit for the women's self-help groups; they have training but no equipment.",
+    "language": "en",
+    "category": "employment",
+    "wardId": "w07",
+    "channel": "meeting",
+    "severity": 2,
+    "themes": [
+      "shg",
+      "tailoring unit"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-29T00:06:19.842Z"
+  },
+  {
+    "id": "s058",
+    "text": "డిగ్రీ అయిపోయిన యువతకు పని లేదు. స్కిల్ ట్రైనింగ్ సెంటర్ కావాలి.",
+    "translatedText": "Graduated youth have no work. We need a skill training centre.",
+    "language": "te",
+    "category": "employment",
+    "wardId": "w12",
+    "channel": "voice",
+    "severity": 3,
+    "themes": [
+      "youth unemployment",
+      "skill training"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-26T22:41:44.571Z"
+  },
+  {
+    "id": "s028",
+    "text": "డిగ్రీ అయిపోయిన యువతకు పని లేదు. స్కిల్ ట్రైనింగ్ సెంటర్ కావాలి.",
+    "translatedText": "Graduated youth have no work. We need a skill training centre.",
+    "language": "te",
+    "category": "employment",
+    "wardId": "w01",
+    "channel": "text",
+    "severity": 3,
+    "themes": [
+      "youth unemployment",
+      "skill training"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-25T21:55:36.943Z"
+  },
+  {
+    "id": "s101",
+    "text": "Borewell water is fluoride contaminated. We need a protected drinking water scheme urgently.",
+    "translatedText": "Borewell water is fluoride contaminated. We need a protected drinking water scheme urgently.",
+    "language": "en",
+    "category": "water",
+    "wardId": "w01",
+    "channel": "text",
+    "severity": 5,
+    "themes": [
+      "fluoride",
+      "safe drinking water"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-23T10:03:44.952Z"
+  },
+  {
+    "id": "s007",
+    "text": "குழாய் நீர் இணைப்பு எங்கள் பகுதிக்கு இன்னும் வரவில்லை.",
+    "translatedText": "Piped water connection has still not reached our area.",
+    "language": "ta",
+    "category": "water",
+    "wardId": "w03",
+    "channel": "voice",
+    "severity": 3,
+    "themes": [
+      "piped water"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-23T01:55:07.915Z"
+  },
+  {
+    "id": "s050",
+    "text": "డ్రైనేజీ కాలువలు నిండిపోయి రోడ్డు మీద మురుగు నీరు నిలుస్తుంది. దోమలు పెరిగిపోయాయి.",
+    "translatedText": "Drainage canals are full and sewage stagnates on the road. Mosquitoes have multiplied.",
+    "language": "te",
+    "category": "sanitation",
+    "wardId": "w06",
+    "channel": "voice",
+    "severity": 4,
+    "themes": [
+      "drainage",
+      "mosquitoes"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-22T22:06:41.118Z"
+  },
+  {
+    "id": "s053",
+    "text": "मनरेगा का काम समय पर नहीं मिलता और भुगतान महीनों रुका रहता है।",
+    "translatedText": "MGNREGA work is not given on time and payments are delayed for months.",
+    "language": "hi",
+    "category": "employment",
+    "wardId": "w12",
+    "channel": "text",
+    "severity": 3,
+    "themes": [
+      "mgnrega",
+      "wage delay"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-21T17:28:42.214Z"
+  },
+  {
+    "id": "s081",
+    "text": "Transformer near the school has been sparking for weeks. It is dangerous for children.",
+    "translatedText": "Transformer near the school has been sparking for weeks. It is dangerous for children.",
+    "language": "en",
+    "category": "electricity",
+    "wardId": "w04",
+    "channel": "voice",
+    "severity": 4,
+    "themes": [
+      "transformer",
+      "safety hazard"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-20T18:11:40.585Z"
+  },
+  {
+    "id": "s080",
+    "text": "Girls are dropping out after 7th class because the nearest high school is too far and there is no bus.",
+    "translatedText": "Girls are dropping out after 7th class because the nearest high school is too far and there is no bus.",
+    "language": "en",
+    "category": "education",
+    "wardId": "w01",
+    "channel": "voice",
+    "severity": 5,
+    "themes": [
+      "girls dropout",
+      "school distance",
+      "transport"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-20T17:28:32.645Z"
+  },
+  {
+    "id": "s110",
+    "text": "Farmers need a soil testing centre; the nearest one is in the district headquarters.",
+    "translatedText": "Farmers need a soil testing centre; the nearest one is in the district headquarters.",
+    "language": "en",
+    "category": "agriculture",
+    "wardId": "w05",
+    "channel": "voice",
+    "severity": 2,
+    "themes": [
+      "soil testing"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-20T14:00:44.962Z"
+  },
+  {
+    "id": "s132",
+    "text": "వారానికి ఒక్కసారే నీళ్లు వస్తున్నాయి. ట్యాంకర్ కోసం గంటలు నిలబడాలి.",
+    "translatedText": "Water comes only once a week. We stand in line for hours for the tanker.",
+    "language": "te",
+    "category": "water",
+    "wardId": "w11",
+    "channel": "voice",
+    "severity": 5,
+    "themes": [
+      "water scarcity",
+      "tanker dependence"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-19T09:17:28.498Z"
+  },
+  {
+    "id": "s059",
+    "text": "Street from the market to the bus stand needs urgent repair, autos refuse to ply after dark.",
+    "translatedText": "Street from the market to the bus stand needs urgent repair, autos refuse to ply after dark.",
+    "language": "en",
+    "category": "roads",
+    "wardId": "w11",
+    "channel": "text",
+    "severity": 3,
+    "themes": [
+      "road repair",
+      "market road"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-19T07:48:09.007Z"
+  },
+  {
+    "id": "s022",
+    "text": "Requesting a 24x7 delivery facility. Pregnant women are being referred 40 km away at night.",
+    "translatedText": "Requesting a 24x7 delivery facility. Pregnant women are being referred 40 km away at night.",
+    "language": "en",
+    "category": "health",
+    "wardId": "w10",
+    "channel": "social",
+    "severity": 5,
+    "themes": [
+      "maternal care",
+      "24x7 PHC"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-18T12:51:50.031Z"
+  },
+  {
+    "id": "s096",
+    "text": "मनरेगा का काम समय पर नहीं मिलता और भुगतान महीनों रुका रहता है।",
+    "translatedText": "MGNREGA work is not given on time and payments are delayed for months.",
+    "language": "hi",
+    "category": "employment",
+    "wardId": "w01",
+    "channel": "voice",
+    "severity": 3,
+    "themes": [
+      "mgnrega",
+      "wage delay"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-17T08:02:59.126Z"
+  },
+  {
+    "id": "s078",
+    "text": "వారానికి ఒక్కసారే నీళ్లు వస్తున్నాయి. ట్యాంకర్ కోసం గంటలు నిలబడాలి.",
+    "translatedText": "Water comes only once a week. We stand in line for hours for the tanker.",
+    "language": "te",
+    "category": "water",
+    "wardId": "w12",
+    "channel": "voice",
+    "severity": 5,
+    "themes": [
+      "water scarcity",
+      "tanker dependence"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-17T07:50:22.975Z"
+  },
+  {
+    "id": "s002",
+    "text": "गली में स्ट्रीट लाइट नहीं है, रात में महिलाओं का निकलना मुश्किल है।",
+    "translatedText": "There are no street lights in the lane; it is hard for women to go out at night.",
+    "language": "hi",
+    "category": "electricity",
+    "wardId": "w09",
+    "channel": "letter",
+    "severity": 3,
+    "themes": [
+      "street lights",
+      "women safety"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-16T17:23:38.105Z"
+  },
+  {
+    "id": "s017",
+    "text": "బస్సు మా ఊరికి రావడం లేదు ఎందుకంటే రోడ్డు బాగోలేదు. విద్యార్థులు ఇబ్బంది పడుతున్నారు.",
+    "translatedText": "The bus does not come to our village because the road is bad. Students suffer.",
+    "language": "te",
+    "category": "roads",
+    "wardId": "w10",
+    "channel": "social",
+    "severity": 3,
+    "themes": [
+      "bus connectivity",
+      "road condition"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-14T09:02:11.692Z"
+  },
+  {
+    "id": "s006",
+    "text": "ఆశా వర్కర్లకు మందుల కిట్లు అందడం లేదు.",
+    "translatedText": "ASHA workers are not receiving medicine kits.",
+    "language": "te",
+    "category": "health",
+    "wardId": "w09",
+    "channel": "voice",
+    "severity": 2,
+    "themes": [
+      "asha workers",
+      "medicine supply"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-13T20:51:51.919Z"
+  },
+  {
+    "id": "s004",
+    "text": "कचरा उठाने की कोई व्यवस्था नहीं है, जगह-जगह ढेर लगे हैं।",
+    "translatedText": "There is no garbage collection; heaps are piling up everywhere.",
+    "language": "hi",
+    "category": "sanitation",
+    "wardId": "w04",
+    "channel": "text",
+    "severity": 3,
+    "themes": [
+      "garbage collection"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-12T09:05:38.561Z"
+  },
+  {
+    "id": "s095",
+    "text": "చెరువు ఎండిపోయింది, పశువులకు కూడా నీళ్లు లేవు.",
+    "translatedText": "The tank has dried up; there is no water even for cattle.",
+    "language": "te",
+    "category": "water",
+    "wardId": "w03",
+    "channel": "meeting",
+    "severity": 4,
+    "themes": [
+      "tank desilting",
+      "livestock"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-12T06:37:55.242Z"
+  },
+  {
+    "id": "s082",
+    "text": "Transformer near the school has been sparking for weeks. It is dangerous for children.",
+    "translatedText": "Transformer near the school has been sparking for weeks. It is dangerous for children.",
+    "language": "en",
+    "category": "electricity",
+    "wardId": "w11",
+    "channel": "social",
+    "severity": 4,
+    "themes": [
+      "transformer",
+      "safety hazard"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-11T07:54:45.009Z"
+  },
+  {
+    "id": "s106",
+    "text": "వారానికి ఒక్కసారే నీళ్లు వస్తున్నాయి. ట్యాంకర్ కోసం గంటలు నిలబడాలి.",
+    "translatedText": "Water comes only once a week. We stand in line for hours for the tanker.",
+    "language": "te",
+    "category": "water",
+    "wardId": "w06",
+    "channel": "letter",
+    "severity": 5,
+    "themes": [
+      "water scarcity",
+      "tanker dependence"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-11T06:47:20.921Z"
+  },
+  {
+    "id": "s123",
+    "text": "Requesting a tailoring unit for the women's self-help groups; they have training but no equipment.",
+    "translatedText": "Requesting a tailoring unit for the women's self-help groups; they have training but no equipment.",
+    "language": "en",
+    "category": "employment",
+    "wardId": "w07",
+    "channel": "social",
+    "severity": 2,
+    "themes": [
+      "shg",
+      "tailoring unit"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-11T01:52:02.016Z"
+  },
+  {
+    "id": "s026",
+    "text": "బస్సు మా ఊరికి రావడం లేదు ఎందుకంటే రోడ్డు బాగోలేదు. విద్యార్థులు ఇబ్బంది పడుతున్నారు.",
+    "translatedText": "The bus does not come to our village because the road is bad. Students suffer.",
+    "language": "te",
+    "category": "roads",
+    "wardId": "w09",
+    "channel": "social",
+    "severity": 3,
+    "themes": [
+      "bus connectivity",
+      "road condition"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-10T14:42:01.366Z"
+  },
+  {
+    "id": "s124",
+    "text": "మా ఊరిలో హైస్కూల్ లేదు, పిల్లలు రోజూ 6 కిలోమీటర్లు నడిచి వెళ్తున్నారు. దయచేసి స్కూల్ అప్‌గ్రేడ్ చేయండి.",
+    "translatedText": "There is no high school in our village; children walk 6 km every day. Please upgrade the school.",
+    "language": "te",
+    "category": "education",
+    "wardId": "w09",
+    "channel": "voice",
+    "severity": 4,
+    "themes": [
+      "school distance",
+      "high school upgrade"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-09T08:13:03.037Z"
+  },
+  {
+    "id": "s013",
+    "text": "गली में स्ट्रीट लाइट नहीं है, रात में महिलाओं का निकलना मुश्किल है।",
+    "translatedText": "There are no street lights in the lane; it is hard for women to go out at night.",
+    "language": "hi",
+    "category": "electricity",
+    "wardId": "w05",
+    "channel": "voice",
+    "severity": 3,
+    "themes": [
+      "street lights",
+      "women safety"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-06T20:17:52.108Z"
+  },
+  {
+    "id": "s055",
+    "text": "పీహెచ్‌సీలో డాక్టర్ వారానికి రెండు రోజులే వస్తారు. రాత్రి ఎమర్జెన్సీ వస్తే 30 కిలోమీటర్లు వెళ్ళాలి.",
+    "translatedText": "The PHC doctor comes only two days a week. For a night emergency we must travel 30 km.",
+    "language": "te",
+    "category": "health",
+    "wardId": "w01",
+    "channel": "text",
+    "severity": 5,
+    "themes": [
+      "doctor shortage",
+      "emergency care"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-06T00:18:35.497Z"
+  },
+  {
+    "id": "s116",
+    "text": "వారానికి ఒక్కసారే నీళ్లు వస్తున్నాయి. ట్యాంకర్ కోసం గంటలు నిలబడాలి.",
+    "translatedText": "Water comes only once a week. We stand in line for hours for the tanker.",
+    "language": "te",
+    "category": "water",
+    "wardId": "w02",
+    "channel": "voice",
+    "severity": 5,
+    "themes": [
+      "water scarcity",
+      "tanker dependence"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-05T23:04:43.029Z"
+  },
+  {
+    "id": "s005",
+    "text": "డ్రైనేజీ కాలువలు నిండిపోయి రోడ్డు మీద మురుగు నీరు నిలుస్తుంది. దోమలు పెరిగిపోయాయి.",
+    "translatedText": "Drainage canals are full and sewage stagnates on the road. Mosquitoes have multiplied.",
+    "language": "te",
+    "category": "sanitation",
+    "wardId": "w12",
+    "channel": "text",
+    "severity": 4,
+    "themes": [
+      "drainage",
+      "mosquitoes"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-05T07:13:34.753Z"
+  },
+  {
+    "id": "s043",
+    "text": "गाँव में कोई दवाखाना नहीं है। बुज़ुर्गों को इलाज के लिए शहर ले जाना पड़ता है।",
+    "translatedText": "There is no clinic in the village. The elderly must be taken to town for treatment.",
+    "language": "hi",
+    "category": "health",
+    "wardId": "w02",
+    "channel": "social",
+    "severity": 4,
+    "themes": [
+      "no clinic",
+      "elderly care"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-04T09:09:39.873Z"
+  },
+  {
+    "id": "s090",
+    "text": "Borewell water is fluoride contaminated. We need a protected drinking water scheme urgently.",
+    "translatedText": "Borewell water is fluoride contaminated. We need a protected drinking water scheme urgently.",
+    "language": "en",
+    "category": "water",
+    "wardId": "w04",
+    "channel": "text",
+    "severity": 5,
+    "themes": [
+      "fluoride",
+      "safe drinking water"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-04-02T10:37:07.551Z"
+  },
+  {
+    "id": "s118",
+    "text": "Farmers need a soil testing centre; the nearest one is in the district headquarters.",
+    "translatedText": "Farmers need a soil testing centre; the nearest one is in the district headquarters.",
+    "language": "en",
+    "category": "agriculture",
+    "wardId": "w01",
+    "channel": "letter",
+    "severity": 2,
+    "themes": [
+      "soil testing"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-03-30T05:37:15.107Z"
+  },
+  {
+    "id": "s098",
+    "text": "Requesting a tailoring unit for the women's self-help groups; they have training but no equipment.",
+    "translatedText": "Requesting a tailoring unit for the women's self-help groups; they have training but no equipment.",
+    "language": "en",
+    "category": "employment",
+    "wardId": "w04",
+    "channel": "photo",
+    "severity": 2,
+    "themes": [
+      "shg",
+      "tailoring unit"
+    ],
+    "hasPhoto": true,
+    "photoNote": "Photo attached by citizen showing the reported issue.",
+    "createdAt": "2026-03-29T11:25:01.667Z"
+  },
+  {
+    "id": "s016",
+    "text": "చెరువు ఎండిపోయింది, పశువులకు కూడా నీళ్లు లేవు.",
+    "translatedText": "The tank has dried up; there is no water even for cattle.",
+    "language": "te",
+    "category": "water",
+    "wardId": "w03",
+    "channel": "text",
+    "severity": 4,
+    "themes": [
+      "tank desilting",
+      "livestock"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-03-29T01:15:39.905Z"
+  },
+  {
+    "id": "s083",
+    "text": "ఆశా వర్కర్లకు మందుల కిట్లు అందడం లేదు.",
+    "translatedText": "ASHA workers are not receiving medicine kits.",
+    "language": "te",
+    "category": "health",
+    "wardId": "w04",
+    "channel": "social",
+    "severity": 2,
+    "themes": [
+      "asha workers",
+      "medicine supply"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-03-28T18:53:36.797Z"
+  },
+  {
+    "id": "s029",
+    "text": "मनरेगा का काम समय पर नहीं मिलता और भुगतान महीनों रुका रहता है।",
+    "translatedText": "MGNREGA work is not given on time and payments are delayed for months.",
+    "language": "hi",
+    "category": "employment",
+    "wardId": "w10",
+    "channel": "letter",
+    "severity": 3,
+    "themes": [
+      "mgnrega",
+      "wage delay"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-03-27T11:46:49.407Z"
+  },
+  {
+    "id": "s012",
+    "text": "వారానికి ఒక్కసారే నీళ్లు వస్తున్నాయి. ట్యాంకర్ కోసం గంటలు నిలబడాలి.",
+    "translatedText": "Water comes only once a week. We stand in line for hours for the tanker.",
+    "language": "te",
+    "category": "water",
+    "wardId": "w09",
+    "channel": "text",
+    "severity": 5,
+    "themes": [
+      "water scarcity",
+      "tanker dependence"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-03-26T21:01:26.580Z"
+  },
+  {
+    "id": "s046",
+    "text": "Requesting a tailoring unit for the women's self-help groups; they have training but no equipment.",
+    "translatedText": "Requesting a tailoring unit for the women's self-help groups; they have training but no equipment.",
+    "language": "en",
+    "category": "employment",
+    "wardId": "w03",
+    "channel": "photo",
+    "severity": 2,
+    "themes": [
+      "shg",
+      "tailoring unit"
+    ],
+    "hasPhoto": true,
+    "photoNote": "Photo attached by citizen showing the reported issue.",
+    "createdAt": "2026-03-23T07:56:55.568Z"
+  },
+  {
+    "id": "s052",
+    "text": "गली में स्ट्रीट लाइट नहीं है, रात में महिलाओं का निकलना मुश्किल है।",
+    "translatedText": "There are no street lights in the lane; it is hard for women to go out at night.",
+    "language": "hi",
+    "category": "electricity",
+    "wardId": "w04",
+    "channel": "voice",
+    "severity": 3,
+    "themes": [
+      "street lights",
+      "women safety"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-03-22T23:53:53.404Z"
+  },
+  {
+    "id": "s111",
+    "text": "పీహెచ్‌సీలో డాక్టర్ వారానికి రెండు రోజులే వస్తారు. రాత్రి ఎమర్జెన్సీ వస్తే 30 కిలోమీటర్లు వెళ్ళాలి.",
+    "translatedText": "The PHC doctor comes only two days a week. For a night emergency we must travel 30 km.",
+    "language": "te",
+    "category": "health",
+    "wardId": "w03",
+    "channel": "voice",
+    "severity": 5,
+    "themes": [
+      "doctor shortage",
+      "emergency care"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-03-22T08:03:19.880Z"
+  },
+  {
+    "id": "s057",
+    "text": "Requesting benches and drinking water facility at the primary school. Children sit on the floor.",
+    "translatedText": "Requesting benches and drinking water facility at the primary school. Children sit on the floor.",
+    "language": "en",
+    "category": "education",
+    "wardId": "w05",
+    "channel": "voice",
+    "severity": 2,
+    "themes": [
+      "school furniture",
+      "drinking water"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-03-19T02:46:39.911Z"
+  },
+  {
+    "id": "s122",
+    "text": "Farmers need a soil testing centre; the nearest one is in the district headquarters.",
+    "translatedText": "Farmers need a soil testing centre; the nearest one is in the district headquarters.",
+    "language": "en",
+    "category": "agriculture",
+    "wardId": "w08",
+    "channel": "voice",
+    "severity": 2,
+    "themes": [
+      "soil testing"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-03-17T04:40:02.470Z"
+  },
+  {
+    "id": "s048",
+    "text": "உள் தெருக்கள் அனைத்தும் மண் சாலைகள். சிமெண்ட் சாலை போட்டுத் தரவும்.",
+    "translatedText": "All inner streets are mud roads. Please lay cement roads.",
+    "language": "ta",
+    "category": "roads",
+    "wardId": "w09",
+    "channel": "photo",
+    "severity": 3,
+    "themes": [
+      "cc roads",
+      "internal streets"
+    ],
+    "hasPhoto": true,
+    "photoNote": "Photo attached by citizen showing the reported issue.",
+    "createdAt": "2026-03-14T10:14:45.018Z"
+  },
+  {
+    "id": "s061",
+    "text": "मनरेगा का काम समय पर नहीं मिलता और भुगतान महीनों रुका रहता है।",
+    "translatedText": "MGNREGA work is not given on time and payments are delayed for months.",
+    "language": "hi",
+    "category": "employment",
+    "wardId": "w12",
+    "channel": "meeting",
+    "severity": 3,
+    "themes": [
+      "mgnrega",
+      "wage delay"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-03-14T02:11:10.009Z"
+  },
+  {
+    "id": "s077",
+    "text": "కూరగాయల ధరలు పడిపోయినప్పుడు నిల్వ చేసుకోవడానికి కోల్డ్ స్టోరేజీ లేదు.",
+    "translatedText": "When vegetable prices crash there is no cold storage to keep produce.",
+    "language": "te",
+    "category": "agriculture",
+    "wardId": "w05",
+    "channel": "letter",
+    "severity": 3,
+    "themes": [
+      "cold storage",
+      "price crash"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-03-13T03:20:36.601Z"
+  },
+  {
+    "id": "s074",
+    "text": "Requesting a tailoring unit for the women's self-help groups; they have training but no equipment.",
+    "translatedText": "Requesting a tailoring unit for the women's self-help groups; they have training but no equipment.",
+    "language": "en",
+    "category": "employment",
+    "wardId": "w12",
+    "channel": "letter",
+    "severity": 2,
+    "themes": [
+      "shg",
+      "tailoring unit"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-03-12T00:31:14.996Z"
+  },
+  {
+    "id": "s099",
+    "text": "వారానికి ఒక్కసారే నీళ్లు వస్తున్నాయి. ట్యాంకర్ కోసం గంటలు నిలబడాలి.",
+    "translatedText": "Water comes only once a week. We stand in line for hours for the tanker.",
+    "language": "te",
+    "category": "water",
+    "wardId": "w09",
+    "channel": "text",
+    "severity": 5,
+    "themes": [
+      "water scarcity",
+      "tanker dependence"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-03-11T10:25:45.825Z"
+  },
+  {
+    "id": "s127",
+    "text": "చెరువు ఎండిపోయింది, పశువులకు కూడా నీళ్లు లేవు.",
+    "translatedText": "The tank has dried up; there is no water even for cattle.",
+    "language": "te",
+    "category": "water",
+    "wardId": "w01",
+    "channel": "letter",
+    "severity": 4,
+    "themes": [
+      "tank desilting",
+      "livestock"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-03-10T17:47:58.549Z"
+  },
+  {
+    "id": "s093",
+    "text": "Requesting a tailoring unit for the women's self-help groups; they have training but no equipment.",
+    "translatedText": "Requesting a tailoring unit for the women's self-help groups; they have training but no equipment.",
+    "language": "en",
+    "category": "employment",
+    "wardId": "w02",
+    "channel": "letter",
+    "severity": 2,
+    "themes": [
+      "shg",
+      "tailoring unit"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-03-10T10:13:59.061Z"
+  },
+  {
+    "id": "s070",
+    "text": "உள் தெருக்கள் அனைத்தும் மண் சாலைகள். சிமெண்ட் சாலை போட்டுத் தரவும்.",
+    "translatedText": "All inner streets are mud roads. Please lay cement roads.",
+    "language": "ta",
+    "category": "roads",
+    "wardId": "w07",
+    "channel": "social",
+    "severity": 3,
+    "themes": [
+      "cc roads",
+      "internal streets"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-03-08T06:57:13.111Z"
+  },
+  {
+    "id": "s037",
+    "text": "हमारे स्कूल में विज्ञान की प्रयोगशाला नहीं है। बच्चों को प्रैक्टिकल के लिए शहर जाना पड़ता है।",
+    "translatedText": "Our school has no science lab. Children must travel to town for practicals.",
+    "language": "hi",
+    "category": "education",
+    "wardId": "w09",
+    "channel": "text",
+    "severity": 3,
+    "themes": [
+      "science lab",
+      "school infrastructure"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-03-07T14:23:43.492Z"
+  },
+  {
+    "id": "s049",
+    "text": "गली में स्ट्रीट लाइट नहीं है, रात में महिलाओं का निकलना मुश्किल है।",
+    "translatedText": "There are no street lights in the lane; it is hard for women to go out at night.",
+    "language": "hi",
+    "category": "electricity",
+    "wardId": "w12",
+    "channel": "text",
+    "severity": 3,
+    "themes": [
+      "street lights",
+      "women safety"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-03-07T06:23:56.023Z"
+  },
+  {
+    "id": "s085",
+    "text": "ప్రభుత్వ పాఠశాలలో తరగతి గదులు సరిపోవడం లేదు, ఒక్క గదిలో రెండు తరగతులు నడుస్తున్నాయి.",
+    "translatedText": "Classrooms in the government school are insufficient; two classes run in one room.",
+    "language": "te",
+    "category": "education",
+    "wardId": "w08",
+    "channel": "voice",
+    "severity": 3,
+    "themes": [
+      "classroom shortage"
+    ],
+    "hasPhoto": false,
+    "createdAt": "2026-03-06T09:15:51.176Z"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "p01",
+    "name": "Vocational Training Centre, Chintalapadu",
+    "category": "employment",
+    "wardId": "w03",
+    "estimatedCostLakh": 320,
+    "source": "District Development Plan 2025-26",
+    "description": "New skill development centre offering courses in tailoring, electrical work and computer literacy for 300 trainees per year."
+  },
+  {
+    "id": "p02",
+    "name": "Zilla Parishad High School upgrade, Chintalapadu",
+    "category": "education",
+    "wardId": "w03",
+    "estimatedCostLakh": 210,
+    "source": "MPLADS proposal backlog",
+    "description": "Add 6 classrooms, science lab and toilets to the existing ZPHS; reduces travel to the nearest high school from 5.6 km."
+  },
+  {
+    "id": "p03",
+    "name": "Kondaveedu-Nallamada road widening",
+    "category": "roads",
+    "wardId": "w02",
+    "estimatedCostLakh": 450,
+    "source": "PMGSY phase III shortlist",
+    "description": "Widen and resurface 12 km of connecting road between Kondaveedu and Nallamada including two culverts."
+  },
+  {
+    "id": "p04",
+    "name": "Piped water scheme, Jangamvari Thanda",
+    "category": "water",
+    "wardId": "w09",
+    "estimatedCostLakh": 180,
+    "source": "Jal Jeevan Mission gap list",
+    "description": "Overhead tank and household connections for the tanda; current coverage is 28% of households."
+  },
+  {
+    "id": "p05",
+    "name": "Primary Health Centre upgrade, Gopannagudem",
+    "category": "health",
+    "wardId": "w06",
+    "estimatedCostLakh": 260,
+    "source": "District Development Plan 2025-26",
+    "description": "Upgrade sub-centre to a 24x7 PHC with delivery room and two staff quarters."
+  },
+  {
+    "id": "p06",
+    "name": "Solar street lighting, all mandals",
+    "category": "electricity",
+    "wardId": null,
+    "estimatedCostLakh": 140,
+    "source": "MPLADS proposal backlog",
+    "description": "1,200 solar street lights across habitations with poor grid reliability."
+  },
+  {
+    "id": "p07",
+    "name": "Community sanitation complex, Nallamada",
+    "category": "sanitation",
+    "wardId": "w04",
+    "estimatedCostLakh": 95,
+    "source": "Swachh Bharat gap list",
+    "description": "Two community toilet blocks with water connection near the weekly market."
+  },
+  {
+    "id": "p08",
+    "name": "Cold storage unit, Krishnapuram",
+    "category": "agriculture",
+    "wardId": "w10",
+    "estimatedCostLakh": 380,
+    "source": "District Development Plan 2025-26",
+    "description": "500 MT cold storage for vegetable farmers to reduce distress sales."
+  },
+  {
+    "id": "p09",
+    "name": "Devarakonda internal CC roads",
+    "category": "roads",
+    "wardId": "w11",
+    "estimatedCostLakh": 170,
+    "source": "MPLADS proposal backlog",
+    "description": "Cement concrete roads for 8 internal streets currently unpaved."
+  },
+  {
+    "id": "p10",
+    "name": "Digital library, Suryagiri Town",
+    "category": "education",
+    "wardId": "w12",
+    "estimatedCostLakh": 120,
+    "source": "District Development Plan 2025-26",
+    "description": "Air-conditioned digital library with 60 seats for competitive exam aspirants."
+  }
+]
