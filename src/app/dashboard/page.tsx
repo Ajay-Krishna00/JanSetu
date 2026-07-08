@@ -1,7 +1,7 @@
 "use client";
 
 import dynamic from "next/dynamic";
-import { useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 import Nav from "@/components/Nav";
 import StatTile from "@/components/StatTile";
 import CategoryBarChart from "@/components/CategoryBarChart";
@@ -40,7 +40,8 @@ export default function DashboardPage() {
   const [category, setCategory] = useState<Category | "">("");
   const [channel, setChannel] = useState<Channel | "">("");
 
-  useEffect(() => {
+  const loadSubmissions = useCallback(() => {
+    setError(false);
     fetch("/api/submissions")
       .then((r) => {
         if (!r.ok) throw new Error(String(r.status));
@@ -49,6 +50,10 @@ export default function DashboardPage() {
       .then((d) => setSubmissions(d.submissions))
       .catch(() => setError(true));
   }, []);
+
+  useEffect(() => {
+    loadSubmissions();
+  }, [loadSubmissions]);
 
   const filtered = useMemo(() => {
     if (!submissions) return [];
@@ -93,7 +98,7 @@ export default function DashboardPage() {
               The submissions service didn&apos;t respond. Check that the app is running and try again.
             </p>
             <button
-              onClick={() => location.reload()}
+              onClick={loadSubmissions}
               className="mt-4 rounded-xl bg-brand px-5 py-2.5 text-sm font-medium text-white hover:bg-brand-strong"
             >
               Retry
