@@ -22,14 +22,17 @@ interface AnalyzeInput {
 
 export async function analyzeSubmission(input: AnalyzeInput): Promise<AnalysisResult> {
   const apiKey = process.env.GEMINI_API_KEY;
-  if (apiKey) {
-    try {
-      return await analyzeWithGemini(input, apiKey);
-    } catch (err) {
-      console.error("Gemini analysis failed, using offline analyzer:", err);
-    }
+  if (!apiKey) {
+    return { ...analyzeOffline(input), offlineReason: "no-key" };
   }
-  return analyzeOffline(input);
+  try {
+    return await analyzeWithGemini(input, apiKey);
+  } catch (err) {
+    // Key is configured but the call itself failed (bad key, wrong model,
+    // quota, network) — check the server/function logs for the actual cause.
+    console.error("Gemini analysis failed, using offline analyzer:", err);
+    return { ...analyzeOffline(input), offlineReason: "error" };
+  }
 }
 
 async function analyzeWithGemini(input: AnalyzeInput, apiKey: string): Promise<AnalysisResult> {

@@ -61,6 +61,7 @@ export interface AnalysisResult {
   themes: string[];
   photoNote?: string;
   engine: "gemini" | "offline";
+  offlineReason?: "no-key" | "error";
 }
 
 export interface Recommendation {

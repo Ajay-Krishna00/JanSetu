@@ -199,7 +199,11 @@ export default function SubmitPage() {
               {result.analysis.photoNote && <Row label="Photo">{result.analysis.photoNote}</Row>}
               <Row label="Themes">{result.analysis.themes.join(", ")}</Row>
               <Row label="Analyzed by">
-                {result.analysis.engine === "gemini" ? "AI (Gemini)" : "Offline analyzer (no API key configured)"}
+                {result.analysis.engine === "gemini"
+                  ? "AI (Gemini)"
+                  : result.analysis.offlineReason === "error"
+                    ? "Offline analyzer (AI request failed — check server logs)"
+                    : "Offline analyzer (no API key configured)"}
               </Row>
             </dl>
             <div className="mt-6 flex gap-3">
