@@ -6,6 +6,9 @@ import wards from "@/data/wards.json";
 import { CATEGORY_META, LANGUAGE_LABEL } from "@/lib/ui";
 import type { AnalysisResult, Submission } from "@/lib/types";
 
+const PHOTO_MAX_DIMENSION = 1280;
+const PHOTO_JPEG_QUALITY = 0.75;
+
 const VOICE_LANGS = [
   { code: "te-IN", label: "తెలుగు (Telugu)" },
   { code: "hi-IN", label: "हिन्दी (Hindi)" },
@@ -81,11 +84,28 @@ export default function SubmitPage() {
       setPhoto(null);
       return;
     }
+    setError(null);
     const reader = new FileReader();
     reader.onload = () => {
-      const dataUrl = reader.result as string;
-      const base64 = dataUrl.split(",")[1];
-      setPhoto({ base64, mime: file.type || "image/jpeg", preview: dataUrl });
+      const img = new Image();
+      img.onload = () => {
+        // Downscale to keep the upload well under the server's request size limit —
+        // raw phone photos (often 5-15 MB) would otherwise blow past it as base64.
+        const scale = Math.min(1, PHOTO_MAX_DIMENSION / Math.max(img.width, img.height));
+        const canvas = document.createElement("canvas");
+        canvas.width = Math.round(img.width * scale);
+        canvas.height = Math.round(img.height * scale);
+        const ctx = canvas.getContext("2d");
+        if (!ctx) {
+          setError("Couldn't process that photo. Please try a different image.");
+          return;
+        }
+        ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+        const dataUrl = canvas.toDataURL("image/jpeg", PHOTO_JPEG_QUALITY);
+        setPhoto({ base64: dataUrl.split(",")[1], mime: "image/jpeg", preview: dataUrl });
+      };
+      img.onerror = () => setError("Couldn't read that photo. Please try a different image.");
+      img.src = reader.result as string;
     };
     reader.readAsDataURL(file);
   }
@@ -113,9 +133,27 @@ export default function SubmitPage() {
           imageMimeType: photo?.mime,
         }),
       });
-      const data = await res.json();
-      if (!res.ok) throw new Error(data.error || "Submission failed");
-      setResult(data);
+
+      // The server always replies with JSON, but the hosting platform can reject an
+      // oversized request before it ever reaches our code and send back a plain-text
+      // body (e.g. "Request Entity Too Large") — guard against that failing res.json().
+      let data: { submission?: Submission; analysis?: AnalysisResult; error?: string } | null = null;
+      try {
+        data = await res.json();
+      } catch {
+        data = null;
+      }
+
+      if (!res.ok) {
+        if (res.status === 413) {
+          throw new Error("That photo is too large to submit. Please try a smaller image.");
+        }
+        throw new Error(data?.error || `Submission failed (error ${res.status}). Please try again.`);
+      }
+      if (!data?.submission || !data?.analysis) {
+        throw new Error("Unexpected response from the server. Please try again.");
+      }
+      setResult({ submission: data.submission, analysis: data.analysis });
     } catch (e) {
       setError(e instanceof Error ? e.message : "Something went wrong.");
     } finally {

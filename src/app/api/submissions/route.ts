@@ -6,8 +6,9 @@ import type { Channel, Submission, Ward } from "@/lib/types";
 
 const WARD_IDS = new Set((wardsData as Ward[]).map((w) => w.id));
 const CHANNELS: Channel[] = ["text", "voice", "photo", "meeting", "letter", "social"];
-// Base64 inflates bytes by ~4/3; ~7M chars ≈ a 5 MB image.
-const MAX_IMAGE_CHARS = 7_000_000;
+// Base64 inflates bytes by ~4/3; keep well under Vercel's ~4.5 MB request body
+// limit so our own JSON error fires instead of the platform's plain-text 413.
+const MAX_IMAGE_CHARS = 4_000_000;
 
 export async function GET() {
   return NextResponse.json({ submissions: await getSubmissions() });
